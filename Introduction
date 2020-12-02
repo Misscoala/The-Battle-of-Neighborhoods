@@ -1,1 +1,10 @@
-#hhhhhhh
+#In this project, we will try to find an optimal location for a Chinese restaurant in Indianapolis, the capital of Indiana. The report is specifically designed for stakeholders 
+#who are interested in this investment. We would like to detect locations based on three aspects. 
+
+#First, we are particularly looking for settlements of Asian. Second, we will 
+#estimate the number of Chinese restaurant per acre or per district and places with fewer Chinese restaurants are preferred. Third, at this tough time, people tend to be more 
+#willing to go to restaurant at the area where COVID-19 cases are increasing relatively mild. Thus, after comparing the results of the first two aspects, the restaurant will be 
+#decided to open in the area for the sake of epidemic prevention.
+
+#We expect to generate one or two most promising neighborhoods based on the above criteria after data science implement. Advantages for each area will then be expressed so that
+#the best possible final location can be chosen by stakeholders.
