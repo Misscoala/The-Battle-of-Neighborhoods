@@ -1,1 +1,7 @@
-#gggggggggg
+#We will collect the following data criteria:
+#1. number of Asian people living in the neighborhood;
+#2. number of Chinese restaurants and distance to each other in the neighborhood;
+#3. number of COVID-19 cases per population in the neighborhood.
+
+#The population and COVID information will be collected from Indianapolis goverment official net. Meanwhile, the restaurants' types and location in every neighborhood will be 
+#obtained using Foursquare API.
